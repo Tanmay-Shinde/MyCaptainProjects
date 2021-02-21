@@ -1,3 +1,4 @@
+import operator
 str = input("Please enter a string: ")
 str = str.lower()
 l = len(str)
