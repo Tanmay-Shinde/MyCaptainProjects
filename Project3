@@ -41,7 +41,8 @@ def most_frequent(st):
         i+=1
         
     sorted_d = dict( sorted(Dict.items(), key=operator.itemgetter(1),reverse=True))
-    for pair in sorted_d.items():
-        print(pair)
+    
+    for x,y in sorted_d.items():
+        print(x,"=",y)
 
 most_frequent(str)
