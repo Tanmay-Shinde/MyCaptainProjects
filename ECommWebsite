@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Best Wooden Gift Manufacturers - KanekarToys</title>
+	</head>
+
+	<body>
+		<!-- Background Image -->
+		<img src="Main_bg.jpg" 100% 100%>
+
+		<!-- Header -->
+		<img src="GoldenCircle0.png">
+		<div>
+			<h1>KT</h1>
+		</div>
+
+		<div>
+			<ul>
+				<li><a href="#">Who are we?</a></li>
+			 	<li><a href="#">Become a member</a></li>
+			</ul>		
+		</div>
+
+		<!-- Main Body -->
+		<div>
+			<p>Welcome to</p>
+			<p>KanekarToys.com</p>
+			<p>An Epitome of Excellence</p>
+		</div>
+		<div>
+			<a>Take me to the Store!</a>
+		</div>
+
+		<img src="LocationPin.png" width="25" height="35">
+		<div class="footer">
+			<p>P.D. Kanekar and Co. <br> Sawantwadi, Maharashtra, India</p>
+		</div>
+	</body>
+</html>
