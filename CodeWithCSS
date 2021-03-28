@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Background Image -->
+		<style>
+			body
+			{
+			  background-image: url('BG_Mobile.jpg');
+			  background-repeat: no-repeat;
+			  background-attachment: fixed;
+			  background-size: 100% 100%; 
+			}
+		</style>
+		<!-- Styling for links -->
+		<style>
+			a:link {
+			  text-decoration: none;
+			}
+
+			a:visited {
+			  text-decoration: none;
+			}
+
+			a:hover {
+			  text-decoration: underline;
+			}
+
+			a:active {
+			  text-decoration: underline;
+			}
+		</style>
+		<style>
+			.logo{
+				position: fixed;
+				padding: 10px;
+				top:1.5%;
+				left:1%;
+				height: 100px;
+				width: 100px;
+			}
+			div.logotext{
+				position: fixed;
+				top:-2.5%;
+				left:2.2%;
+				font-size: 230%;
+				font-family: Allura;
+				color: white;
+			}
+			.nav {
+			 	background-color: none; 
+			 	list-style-type: none;
+			 	text-align: right;
+			 	margin: 0px;
+			}
+			.nav li {
+				display: inline-block;
+				position: relative;
+				padding: 25px;
+				padding-top: 50px;
+  			}
+  			div.fixed {
+			 	position: fixed;
+			 	top: 0px;
+			 	right: 17px;
+			}
+
+			div.titlebox{
+				line-height: 0;
+			  	position: fixed;
+			  	top: 28%;
+			  	left:13%;
+			}
+
+			.locpin{
+				position: absolute;
+				bottom:1.7%;
+				left:67%;
+			}
+
+			footer{
+				position: fixed;
+				text-align: right;
+				line-height: 1pt;
+				display: inline-block;
+				bottom:-1%;
+				right:1%;
+			}
+
+			@media only screen and(max-width: 991px){
+			/* start of large tablet styles */
+
+			}
+
+			@media screen and (max-width: 767px) {
+			/* start of medium tablet styles */
+
+			}
+
+			@media screen and (max-width: 479px) {
+			/* start of phone styles */
+
+			}
+		</style>
+
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
+		<style>
+			font-family: 'Allura', cursive;
+		</style>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Amaranth&display=swap" rel="stylesheet">
+		<style>
+			font-family: 'Amaranth', sans-serif;
+		</style>
+		
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap" rel="stylesheet">
+		<style>
+			font-family: 'Cormorant Garamond', serif;
+		</style>
+
+		<title>The Best Wooden Gift Manufacturers - KanekarToys</title>
+	</head>
+
+	<body>
+		<header>
+			<img class="logo" src="GoldenCircle0.png">
+			<div class="logotext">
+				<h1>KT</h1>
+			</div>
+
+			<div class="fixed">
+				<ul class="nav">
+					<li><a href="#" style="font-family:Amaranth; font-size:200%; color: white; padding-right: 10px;">Store</a></li>
+					<li><a href="#" style="font-family:Amaranth; font-size:200%; color: white;">Who are we?</a></li>
+				 	<li><a href="Signup.html" style="font-family:Amaranth; font-size:200%; color: white;">Become a member</a></li>
+				</ul>		
+			</div>
+		</header>
+
+		<section>
+			<div class="titlebox">
+				<p style="font-family:Cormorant Garamond; font-size:215%; color: white;">Welcome to</p>
+				<p style="font-family:Allura; font-size:750%; color: white;">KanekarToys.com</p>
+				<p style="font-family:Cormorant Garamond; font-size:250%; color: white;">An Epitome of Excellence</p>
+			</div>
+		</section>	
+		<a href="https://www.google.co.in/maps/place/P+D+Kanekar.+wooden+toys+store/@15.9082587,73.8180097,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbff55e76ae05b1:0xa1fbcb90f8e5b43a!8m2!3d15.9082587!4d73.8201984" target="_blank"><img class ="locpin" src="LocationPin.png" width="25" height="40"></a>
+
+		<footer>
+			<p style="font-family:Cormorant Garamond; font-size:225%; color: white;">P.D. Kanekar and Co.</p>
+			<p style="font-family:Cormorant Garamond; font-size:225%; color: white;"> Sawantwadi, Maharashtra, India</p>
+		</footer>
+
+	</body>
+</html>
